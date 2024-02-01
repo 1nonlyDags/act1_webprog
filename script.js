@@ -15,7 +15,7 @@ const easyQuestions = [
     { question: 'who did it?', answer: 'bush did it' },
     { question: 'best subject on the planet?', answer: 'compais' },
     { question: 'ID mo iho?', answer: 'guard' },
-    { question: 'open notes?', answer: 'we di nga?' },
+    { question: 'open notes?', answer: 'we di nga' },
     { question: 'u can start walking na (did i get the blue comment?)', answer: 'umay' },
     { question: 'cute prof of webprog?', answer: 'john gabriel sambajon' },
     { question: 'cause of late sa nu?', answer: 'elevator' },
@@ -54,7 +54,8 @@ var usedLetters = [];
 const alphabet = [
     'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H',
     'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S',
-    'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
+    'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '<', '>', '=', '"', 
+    '.', '-'
 ];
 
 
